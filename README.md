@@ -6,6 +6,14 @@ In macOS Catalina there is no progress bar available when downloading IPSW to up
 * libimobiledevice
 * cURL
 
+## Usage
+```
+git clone https://github.com/sickmz/fixAppleDownloadProgress.git
+cd fixAppleDownloadProgress
+chmod +x progress.sh
+./progress.sh
+```
+
 ## Output
 ```
 Device name:     iPhone di Matteo
