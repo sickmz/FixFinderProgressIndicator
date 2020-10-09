@@ -1,4 +1,4 @@
-# FixFinderProgressIndicator
+# Fix finder progress indicator for macOS Catalina
 In macOS Catalina there is no progress bar available when downloading IPSW to update iPhone. This simple bash script fixes this problem (Apple, why did you delete this feature? 😑)
 
 ## Prerequisites
@@ -8,8 +8,8 @@ In macOS Catalina there is no progress bar available when downloading IPSW to up
 
 ## Usage
 ```
-git clone https://github.com/sickmz/fixAppleDownloadProgress.git
-cd fixAppleDownloadProgress
+git clone https://github.com/sickmz/ipwsfix.git
+cd ipswfix
 chmod +x progress.sh
 ./progress.sh
 ```
